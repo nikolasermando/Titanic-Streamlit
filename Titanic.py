@@ -16,6 +16,7 @@ from sklearn.metrics import classification_report
 # Header
 st.write("""
 # Titanic Machine Learning dengan Logistic Regression
+##### Dibuat oleh Nikolas Ermando
 Aplikasi ini memprediksi status keselamatan penumpang Titanic berdasarkan berapa faktor.
 Project ini terinspirasi dari [course Udemy Data Science and Machine Learning](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) yang diajarkan oleh Jose Portila.
 Data dipreroleh dari [Kaggle](https://www.kaggle.com/c/titanic).
